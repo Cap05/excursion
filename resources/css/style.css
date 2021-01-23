@@ -16,6 +16,11 @@ h2 {
     color: white;
 }
 
+footer {
+    text-align: right;
+    color: gray;
+}
+
 .download-link {
     color: Aquamarine;
     font-size: 16px;
